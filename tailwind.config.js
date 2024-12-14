@@ -11,9 +11,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        foreshadow: "#b6b3ae",
         white: "#fff",
         secondary: "#1e293b",
-        danger: "#dc26262"
+        danger: "#f90101",
+        blue: "#0A5EB0"
       }
     },
   },
